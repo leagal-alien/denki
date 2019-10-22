@@ -7,7 +7,7 @@
   [電気の基礎知識](./k1dennki/10denki.md)　[磁気の基礎知識](./k2jiki/20jiki.md)　 [電磁波の基礎知識](./k3dennjiha/30denjiha.md) 　[電気の基本法則](./k4housoku/40housoku.md) 　[物質の基本](./k0dennsikotai/00material.md)　[量子論による電気の理解](./gaiyouryousi.md)　[電気の法則物語( 電気抵抗とは何か？)](./k4housoku/40housokustory.md)  
 * 歴史（概要説明と歴史年表　伝記）  
   （概要説明）[電気の歴史](./gaiyou.md) [電池の歴史](./battery/battery.md)　[電気通信の歴史](./intercomp/internet.md)　[海底電信ケーブルの歴史](./intercomp/submarine/submarinehistory.md)　 [無線通信の歴史](./intercomp/wireless/radiohistorygaisetu.md)　[半導体の歴史](./intercomp/semiconhistry.md)　[電子計算機の歴史](./intercomp/comphistory.md)　[インターネットの歴史](./gaiyoueictronic.md)  
-  　　　　　　[電灯照明の原理と歴史](./lamp/lighting.md)　発電機と電動機　交流電気の歴史　単相交流電動機　家電機器の歴史　電気自動車の歴史  
+  　　　　　　[電灯照明の原理と歴史](./lamp/lighting.md)　[発電機と電動機](./ouyou/genhistory.md)　交流電気の歴史　単相交流電動機　家電機器の歴史　電気自動車の歴史  
   （歴史年表）電気の歴史年表　電気通信の歴史年表　海底ケーブルの歴史年表　 無線通信の歴史年表　発電機と電動機の歴史年表　交流機器の歴史年表  
   　　　　　　インターネットの歴史年表　電灯の歴史年表　ハードウエア歴史年表　プログラミング言語の歴史年表　電気自動車の歴史年表  
   （伝記）電気の歴史を作った人々  
